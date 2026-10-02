@@ -40,10 +40,7 @@ $abilio = [
   <img src="https://skillicons.dev/icons?i=php,laravel,python,react,mysql,redis,aws,docker,linux&theme=dark" />
 </p>
 
-### Atividade
-
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abilioreinaldo&show_icons=true&hide_border=true&theme=transparent" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abilioreinaldo&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
