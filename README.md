@@ -14,12 +14,12 @@ Hoje transformo essa experiência em empresas e produtos próprios.
 
 ### Empresas & produtos
 
-| | |
-|---|---|
-| **CP4** | Logística • Frotas • Pagamentos • Inteligência de combustível |
-| **Helix** | ERP • SaaS multi-tenant • IA • Automação |
-| **Vanti** | Fidelidade • Inteligência tributária |
-| **Cervejaria Comendador** | CEO |
+| | Papel | Foco |
+|---|---|---|
+| **CP4** | CEO | Logística • Frotas • Pagamentos • Inteligência de combustível |
+| **Helix** | Fundador | ERP • SaaS multi-tenant • IA • Automação |
+| **Vanti** | Fundador | Fidelidade • Inteligência tributária |
+| **Cervejaria Comendador** | Advisor • CTO | Tecnologia e transformação digital |
 
 ### Como penso software
 
