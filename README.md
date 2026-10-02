@@ -17,9 +17,9 @@ Hoje transformo essa experiência em empresas e produtos próprios.
 | | Papel | Foco |
 |---|---|---|
 | **CP4** | CEO | Logística • Frotas • Pagamentos • Inteligência de combustível |
+| **Grupo Comendador** | CTO | Tecnologia e transformação digital |
 | **Helix** | Fundador | ERP • SaaS multi-tenant • IA • Automação |
 | **Vanti** | Fundador | Fidelidade • Inteligência tributária |
-| **Cervejaria Comendador** | Advisor • CTO | Tecnologia e transformação digital |
 
 ### Como penso software
 
